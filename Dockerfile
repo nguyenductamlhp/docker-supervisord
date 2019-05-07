@@ -2,9 +2,9 @@
 # Supervisord service
 ############################################################
 
-FROM  trobz/ubuntu:14.04
+FROM  trobz/ubuntu:16.04
 
-MAINTAINER Michel Meyer <mmeyer@trobz.com>
+MAINTAINER Michel Meyer <mmeyer@trobz.com> Nguyen Duc Tam <nguyenductamlhp@gmail.com>
 
 # Install common dependencies
 ############################################################
